@@ -1,0 +1,12 @@
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\bin\Release\C968.exe.config
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\bin\Release\C968.exe
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\bin\Release\C968.pdb
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\obj\Release\C968.csprojAssemblyReference.cache
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\obj\Release\C968.PartForm.resources
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\obj\Release\C968.MainScreen.resources
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\obj\Release\C968.ProductForm.resources
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\obj\Release\C968.Properties.Resources.resources
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\obj\Release\C968.csproj.GenerateResource.cache
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\obj\Release\C968.csproj.CoreCompileInputs.cache
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\obj\Release\C968.exe
+C:\Users\Wes\Desktop\C#\WGU-Final\C968\C968\obj\Release\C968.pdb
