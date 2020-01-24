@@ -22,3 +22,15 @@ C:\Users\Wes\Desktop\projects\C#\WGU-Final\C968\C968\obj\Debug\C968.csproj.CoreC
 C:\Users\Wes\Desktop\projects\C#\WGU-Final\C968\C968\obj\Debug\C968.exe
 C:\Users\Wes\Desktop\projects\C#\WGU-Final\C968\C968\obj\Debug\C968.pdb
 C:\Users\Wes\Desktop\projects\C#\WGU-Final\C968\C968\obj\Debug\C968.csprojAssemblyReference.cache
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\bin\Debug\C968.exe.config
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\bin\Debug\C968.exe
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\bin\Debug\C968.pdb
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\obj\Debug\C968.csprojAssemblyReference.cache
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\obj\Debug\C968.PartForm.resources
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\obj\Debug\C968.MainScreen.resources
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\obj\Debug\C968.ProductForm.resources
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\obj\Debug\C968.Properties.Resources.resources
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\obj\Debug\C968.csproj.GenerateResource.cache
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\obj\Debug\C968.csproj.CoreCompileInputs.cache
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\obj\Debug\C968.exe
+C:\Users\Wes\Desktop\projects\C#\1. Needs published to GitHub\WGU-Final\Inventory-Management-System\C968\obj\Debug\C968.pdb

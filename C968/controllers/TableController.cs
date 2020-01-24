@@ -65,6 +65,10 @@ namespace C968
             }
         }
 
+        /// <summary>
+        /// Searches the table for a row containing the search parameter 
+        /// </summary>
+        /// <param name="search">search parameter</param>
         public void Search(string search)
         {
             Int32.TryParse(search, out int searchNum);

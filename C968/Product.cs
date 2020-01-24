@@ -58,7 +58,7 @@ namespace C968
             else return null;
         }
 
-        public string[] ToStringArray()
+        public string[] ToStringArray() //Converts part to a string array
         {
             string[] s = {ProductID.ToString(),
                           Name,
